@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Brian24NX
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on ...
+<img width="1000" alt="readme_pic" src="https://user-images.githubusercontent.com/109346901/204639332-1fdf744a-1464-4ecc-ac18-add21663b287.png">
+
+
+
+
+- 👋 Hi there, I’m Brian Zhou.
+- 👀 I’m interested in Computer Science, Mathematics and physics.
+- 🌱 I’m currently learning Frontend web-programming, and also doing kinda stuff of Software engineering.
+- 💞️ I’m looking to collaborate on all of the great people who are as insanely chasing dreams as I'm doing right now. Peer mind FTW !
 - 📫 How to reach me 872696379@qq.com
 
 <!---
 Brian24NX/Brian24NX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
