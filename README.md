@@ -4,9 +4,9 @@
 
 
 - 👋 Hi there, I’m Brian Zhou.
-- 👀 I’m interested in computer science, mathematics and physics.
-- 🌱 I’m currently learning frontend web-programming, and also doing kinda stuff of software engineering.
-- 💞️ I’m looking to collaborate on all of the great people who are as insanely chasing their dreams as what I'm doing right now. Peer mind FTW !
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently a frontend developer and also I'm learning Java now.
+- 💞️ I’m looking to collaborate on all of the great people who are as insanely chasing their dreams as what I'm doing right now. 
 - 📫 How to reach me 872696379@qq.com
 
 <!---
