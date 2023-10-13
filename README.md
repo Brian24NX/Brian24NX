@@ -4,8 +4,8 @@
 
 
 - 👋 Hi there, I’m Brian Zhou.
-- 👀 I’m a computer science student.
-- 🌱 I’m currently doing CNN reserach project.
+- 👀 I’m a Computer Science student.
+- 🌱 I’m currently doing Software Engineering.
 - 💞️ I’m looking to collaborate on all of the great people who are as insanely chasing dreams as what I'm doing right now. 
 - 📫 How to reach me 872696379@qq.com
 
