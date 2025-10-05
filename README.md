@@ -7,7 +7,7 @@
 - 👀 I’m a Computer Science student.
 - 🌱 I’m currently doing Software Engineering.
 - 💞️ I’m looking to collaborate on all of the great people who are as insanely chasing dreams as what I'm doing right now. 
-- 📫 How to reach me 872696379@qq.com
+- 📫 How to reach me nanxiangzhou@gmail.com
 
 <!---
 Brian24NX/Brian24NX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
